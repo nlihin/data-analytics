@@ -1,5 +1,5 @@
 
-# Introduction to Decision Analytics course 2021
+# Introduction to Data Analytics - 2021
 
 ## View & run the code using Binder 
 
