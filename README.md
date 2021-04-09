@@ -9,4 +9,4 @@
 
 
 ## View notebooks (without running the code) using Notebook viewer
-[![NBViewer](https://nbviewer.jupyter.org/static/img/nav_logo.svg)](https://nbviewer.jupyter.org/github/nlihin/data-analytics/tree/main/)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/nlihin/data-analytics/tree/main/)
