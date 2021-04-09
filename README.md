@@ -1,5 +1,5 @@
 
-# DA course 2021
+# Introduction to Decision Analytics course 2021
 
 ## View & run the code using Binder 
 
@@ -8,5 +8,5 @@
  
 
 
-## View notebooks (without running the code) using Notebook viewer
+## View notebooks (without running the code) using nbviewer
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/nlihin/data-analytics/tree/main/)
