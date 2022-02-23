@@ -1,5 +1,5 @@
 
-# Introduction to Data Analytics - 2021
+# Introduction to Data Analytics - 2022
 
 ## View & run the code using Binder 
 
